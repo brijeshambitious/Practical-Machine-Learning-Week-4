@@ -1,16 +1,5 @@
 ---
-title: "Practical Machine Learning"
-author: "Tobias Heidler"
-date: '2020-11-14'
-output:
-  html_document:
-    toc: yes
-  pdf:
-    toc: yes
-  pdf_document:
-    toc: yes
-  github_document:
-    toc: yes
+
 subtitle: Prediction Assignment - Week 4
 ---
 
